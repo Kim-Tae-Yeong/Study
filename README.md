@@ -1,4 +1,5 @@
-# Data-Structure
+# Study
+## Data-Structure
 <details>
   1. 
 </details>
